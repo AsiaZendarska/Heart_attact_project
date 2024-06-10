@@ -32,9 +32,7 @@ Zbiór danych pochodzi z repozytorium UCI Machine Learning i zawiera informacje 
 
 Eksploracja danych: Sprawdziłam podstawowe statystyki, wartości brakujące oraz rozkłady zmiennych. Zauważyłam, że dane są względnie zbalansowane.
 
-## Wizualizacja danych:
-
-Stworzyłam różne wykresy, aby zrozumieć, jak poszczególne zmienne wpływają na wystąpienie zawału serca.
+Wizualizacja danych: Stworzyłam różne wykresy, aby zrozumieć, jak poszczególne zmienne wpływają na wystąpienie zawału serca.
 Korelacja: Analiza korelacji pozwoliła zidentyfikować, które zmienne są ze sobą powiązane.
 
 ## Wybór cech (feature selection):
@@ -50,8 +48,6 @@ LGBMClassifier: Jest to bardziej zaawansowany model, który często osiąga leps
 
 Regresja logistyczna: Uzyskana dokładność na zbiorze testowym to około 86%. Model ten był w stanie dobrze klasyfikować pacjentów, ale miał pewne ograniczenia w precyzji.
 LGBMClassifier: Uzyskana dokładność na zbiorze testowym to około 95%. Model ten przewyższał regresję logistyczną zarówno pod względem dokładności, jak i precyzji.
-
-&nbsp;
 
 # Wnioski:
 
