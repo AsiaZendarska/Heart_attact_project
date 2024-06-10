@@ -1,7 +1,6 @@
 # Analiza i predykcja chorób serca za pomocą języka Python
 
 &nbsp;
-
 ## Opis projektu:
 
 To jest mój pierwszy projekt Data Science, który koncentruje się na analizie i predykcji chorób serca. Głównym celem projektu jest zrozumienie, które czynniki mają największy wpływ na ryzyko wystąpienia zawału serca oraz stworzenie modelu predykcyjnego, który pomoże w identyfikacji osób zagrożonych tą chorobą.
