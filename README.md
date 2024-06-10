@@ -1,4 +1,4 @@
-# Analiza i predykcja chorób serca za pomocą Python
+# Analiza i predykcja chorób serca za pomocą języka Python
 
 &nbsp;
 
@@ -17,17 +17,17 @@ Porównanie dwóch modeli klasyfikacyjnych: regresji logistycznej oraz LGBMClass
 
 Zbiór danych pochodzi z repozytorium UCI Machine Learning i zawiera informacje o pacjentach, takie jak:
 
-- Wiek
-- Płeć
-- Rodzaj bólu w klatce piersiowej
-- Ciśnienie krwi
-- Poziom cholesterolu
-- Poziom cukru we krwi na czczo
-- Wyniki elektrokardiograficzne
-- Maksymalne tętno
-- Występowanie duszności wysiłkowej
-- Wynik testu ST
-  
+- Wiek (age)
+- Płeć (sex)
+- Rodzaj bólu w klatce piersiowej (chest_pain_type)
+- Ciśnienie krwi (resting_bp_s)
+- Poziom cholesterolu (cholesterol)
+- Poziom cukru we krwi na czczo (fasting_blood_sugar)
+- Wyniki elektrokardiograficzne (resting_ecg)
+- Maksymalne tętno (max_heart_rate)
+- Występowanie duszności wysiłkowej (exercise_angina)
+- Wynik testu ST (ST_slope)
+
 ## Analiza danych:
 
 Eksploracja danych: Sprawdziłam podstawowe statystyki, wartości brakujące oraz rozkłady zmiennych. Zauważyłam, że dane są względnie zbalansowane.
