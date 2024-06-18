@@ -41,5 +41,6 @@ LGBMClassifier: Uzyskana dokładność na zbiorze testowym to około 95%. Model 
 Wnioski
 Model LGBMClassifier okazał się bardziej efektywny w przewidywaniu ryzyka zawału serca. Jego większa dokładność i precyzja sprawiają, że jest lepszym wyborem do tego zadania. W przyszłości warto zbadać wpływ innych zmiennych oraz zastosować inne metody przetwarzania danych, aby jeszcze bardziej poprawić wyniki modelu.
 
-
+Autor
+Joanna Żendarska-Marciniak
 
